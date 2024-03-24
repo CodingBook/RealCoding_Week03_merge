@@ -1,4 +1,4 @@
 # merge-demo
-1 main
+1 
 2
-3
+3 feature
